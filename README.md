@@ -1,6 +1,6 @@
 # NFC Attendance Registration System
 
-## This project is a Python-based NFC card registration system designed for FRC Team 2869. It uses the Adafruit PN532 NFC module to read NFC cards and associate them with user-defined names. Registered data is stored in a JSON file for easy lookup and management.
+This project is a Python-based NFC card registration system designed for FRC Team 2869. It uses the Adafruit PN532 NFC module to read NFC cards and associate them with user-defined names. Registered data is stored in a JSON file for easy lookup and management.
 
 ## Features
 
